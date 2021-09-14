@@ -1,0 +1,4 @@
+WIDTH = 700
+HEIGHT = 900
+FPS = 30
+TILE = 25
