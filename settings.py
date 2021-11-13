@@ -1,4 +1,4 @@
-WIDTH = 700
+WIDTH = 900
 HEIGHT = 900
 menu_width = 200
 draw_width = WIDTH - menu_width
